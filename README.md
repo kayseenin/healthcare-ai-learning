@@ -2,7 +2,7 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kayseenin/healthcare-ai-learning/blob/main/01_file_search_walkthrough.ipynb)
 
-Hands-on RAG QA bot on a public payer coverage policy. Built as portfolio work for the Arun Shankar Manoharan mentorship (Senior Manager Gen AI, Cigna AI Center of Enablement, via ACP).
+Hands-on RAG QA bot on a public payer coverage policy. Built as portfolio work
 
 ## The bot
 
